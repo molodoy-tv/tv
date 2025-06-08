@@ -1,3 +1,5 @@
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=15000000
+http://x96.uz:8888/play/idn428fb900/6845e00bb825a4055bf9fdea.m3u8?q=7f23dbb6720d7a45e49244b2db1b30a1
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ЭФИР [Каналы]",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
