@@ -1047,7 +1047,439 @@ http://178.217.72.72/hithd/index.m3u8
 #EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 3" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SUZTVFREE",Шокирующее HD
 http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
 
-https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".black" tvg-logo="http://ttvrun.one/uploads/8zphUrweAXT3F5xTpqoNyWWBTLjxd8.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.black
+http://195.64.140.147:10087/87
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".BLACK HD" tvg-logo="http://epg.it999.ru/img/935.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.BLACK HD
+http://188.237.47.212:6007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".RED FHD" tvg-logo="http://epg.it999.ru/img/311.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.RED FHD
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Red HD" tvg-logo="https://iptvx.one/picons/sony.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.Red HD
+http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".sci-fi" tvg-logo="http://ttvrun.one/uploads/YPtFU1jrAc6E6SCL9piVYxPsvlDZuW.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.sci-fi
+http://195.64.140.147:10086/86
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".sci-fi HD" tvg-logo="http://ttvrun.one/uploads/YPtFU1jrAc6E6SCL9piVYxPsvlDZuW.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",.sci-fi HD
+http://188.237.47.212:6001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="312 ТВ" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6 КАДРОВ" tvg-logo="http://i124.fastpic.org/big/2025/0318/3e/27b3b295cc58ad8d53bb483e26564d3e.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",6 КАДРОВ
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="АННА-ДЕТЕКТИВЪ" tvg-logo="https://epg.iptvx.one/picons/zal-09-tricolor.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",АННА-ДЕТЕКТИВЪ
+https://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БАНДИТСКИЙ ПЕТЕРБУРГ" tvg-logo="https://sun9-71.userapi.com/c4226/u16211411/121473247/x_fa9a2340.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",БАНДИТСКИЙ ПЕТЕРБУРГ
+https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БОЕВИКИ HD" tvg-logo="http://i124.fastpic.org/big/2025/0304/7d/98912aae9ea5af7e659cc2324ffed47d.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",БОЕВИКИ HD
+https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Военный" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Военный
+https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВОСТОК-ЗАПАД" tvg-logo="https://cdn.nur.kz/images/1120x630/pogudx2cojg2jtu6kg.jpeg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ВОСТОК-ЗАПАД
+https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Всё ТВ Трейлеры" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Всё ТВ Трейлеры
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ГЛУХАРЬ" tvg-logo="http://i124.fastpic.org/big/2025/0304/69/672c1b5fd39e900a501a13f8fc26ce69.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ГЛУХАРЬ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ГОРЮНОВ" tvg-logo="https://static.kinoafisha.info/k/series_posters/480/upload/series/seasons/200161537992.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ГОРЮНОВ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДЕТСКИЕ ПЕСЕНКИ" tvg-logo="http://i124.fastpic.org/big/2025/0304/6b/0f7c2a66d7f1a73843c5df84718ad86b.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ДЕТСКИЕ ПЕСЕНКИ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детское кино International" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДОКАЗАТЕЛЬСТВА ВИНЫ" tvg-logo="https://pnemuk.ucoz.ru/_ld/174/95813122.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ДОКАЗАТЕЛЬСТВА ВИНЫ
+https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Доктор Достоевский" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Доктор Достоевский
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Документалка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Документалка 1
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Документалка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Документалка 2
+https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Документалка 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Документалка 3
+https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино [R]" tvg-logo="http://epg.it999.ru/img/834.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Дом Кино [R]
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино Премиум HD" tvg-logo="http://ttvrun.one/uploads/uWQ0Y7ZuX8C7lEADua1WViSC5j2bq6.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Дом кино Премиум HD
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум HDМосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/domkino-premium.pnghttps://iptvx.one/picons/mosfilm.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Дом Кино Премиум HDМосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Дорама HD
+http://95.85.109.219:7000/play/a05v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЕвроКино" tvg-logo="http://ttvrun.one/uploads/RoHXFEuynPUAX6WutFftcx1VpI92Oz.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ЕвроКино
+http://217.21.34.160:38003/evrokino/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино HD" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Еврокино HD
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ералаш" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЖЕНСКИЙ ДЕТЕКТИВ" tvg-logo="https://televizorus.tv/gallery/d3/e6/8d/d3e68d58353f36b004d96e9a962f7ab1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ЖЕНСКИЙ ДЕТЕКТИВ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион +" tvg-logo="http://ttvrun.one/uploads/GcBLre3Flrs6XeFMRpidsmlaXjQZ1F.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Иллюзион +
+http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион + HD" tvg-logo="http://epg.it999.ru/img/2403.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Иллюзион + HD
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское Кино" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Индийское Кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ИСТОРИЧЕСКИЙ HD" tvg-logo="http://i124.fastpic.org/big/2025/0304/c3/9d29366a560ba712d960bb053d8855c3.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ИСТОРИЧЕСКИЙ HD
+https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинеко" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинеко
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ" tvg-logo="http://ttvrun.one/uploads/2ugesJUSRNGT6nCY8TMG873wuIfmWO.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ HD" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кино ТВ HD
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ HD" tvg-logo="http://epg.it999.ru/img/1037.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кино ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 1
+https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 10" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 11" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 12" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 13" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 14" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 15" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 16" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 17" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 18" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 19" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 2
+https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 20" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 21" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 22" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 23" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 24" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 25" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 26" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 27" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 28" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 29" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 30" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 31" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 33" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 34" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 35" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 36" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 37" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 4" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 5" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 6" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 7" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 8" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 9" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинозалы 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинокомедия HD" tvg-logo="http://epg.it999.ru/img/821.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинокомедия HD
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс" tvg-logo="http://epg.it999.ru/img/644.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс HD" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопремьера HD" tvg-logo="http://epg.it999.ru/img/566.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинопремьера HD
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносат HDPro100" tvg-logo="https://iptvx.one/picons/kinosat.pnghttps://iptvx.one/picons/pro100.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносат HDPro100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносвидание [R]" tvg-logo="http://epg.it999.ru/img/462.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносвидание [R]
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносвидание HD" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносвидание HD
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья" tvg-logo="http://epg.it999.ru/img/987.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносемья
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья [R]" tvg-logo="http://epg.it999.ru/img/987.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносемья [R]
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья HD" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносемья HD
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносерия" tvg-logo="http://epg.it999.ru/img/799.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинохит" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КЛУБ ВИНКС" tvg-logo="https://i.pinimg.com/736x/e0/71/3c/e0713c09e1bdcd58e8c4e8dff672827a.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",КЛУБ ВИНКС
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КОМЕДИИ" tvg-logo="http://i124.fastpic.org/big/2025/0304/aa/0b5791f9a79558e0e28a612ff6abf2aa.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",КОМЕДИИ
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Криминальное HDSaga TV" tvg-logo="https://epg.iptvx.one/picons/kriminalnoe-hd.pnghttps://epg.iptvx.one/picons/saga-tv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Криминальное HDSaga TV
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАЖОР" tvg-logo="http://i124.fastpic.org/big/2025/0304/2d/e7dd079556557c9f26bd56fb527b872d.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",МАЖОР
+https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МЕНТОВСКИЕ ВОЙНЫ" tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",МЕНТОВСКИЕ ВОЙНЫ
+https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мистер Бин" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 1
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 2
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 3
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 4" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 4
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 5" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 5
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мода 6" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мода 6
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мосфильм. Золотая коллекция HD
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское Кино HD" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Мужское Кино HD
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 1 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 2 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 3
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 4" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 4
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 5" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 5
+https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 5" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 5
+https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 6" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка 6
+https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка Кино International" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТИКИ И СКАЗКИ" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",МУЛЬТИКИ И СКАЗКИ
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наш кинопоказ HDМир Сериала" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.pnghttps://iptvx.one/picons/mir-seriala.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Наш кинопоказ HDМир Сериала
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НЕКРАСИВАЯ ПОДРУЖКА" tvg-logo="https://tv.rambler.ru/epg/pic/1931586" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",НЕКРАСИВАЯ ПОДРУЖКА
+http://live-mirror-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ностальгия" tvg-logo="http://epg.it999.ru/img/783.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Ностальгия
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ностальгия [R]" tvg-logo="http://epg.it999.ru/img/783.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Ностальгия [R]
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=rostik_tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="http://epg.it999.ru/img/518.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",НСТ
+http://46.8.46.14/nst/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ312 Кино" tvg-logo="https://iptvx.one/picons/nst.pnghttps://epg.iptvx.one/picons/312-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",НСТ312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Овертайм" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Овертайм
+https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСТОРОЖНО МОДЕРН" tvg-logo="https://avatars.mds.yandex.net/get-vthumb/4055865/9c599f4380c90cbbc8604c8fcbdd130a/564x318_1" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ОСТОРОЖНО МОДЕРН
+https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый молодёжный" tvg-logo="https://psv4.userapi.com/s/v1/d2/OUUd6tgxck8qNL7d55RlwWOjdjqGDjllBbQ1yDs9MKZQn-hlilmASHC-8YJTRm9xGe3ZwzQnrgd-KhJe1maeCf3YKw2x5uoIriskPSi7_m435YkZqNfQ03_ZhkveZ4MrOCQqMD2OVXuC/Screenshot_1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Первый молодёжный
+https://v2.catcast.tv/content/48542/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Победа" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ПОСЛЕДНИЙ МЕНТ" tvg-logo="https://img5tv.cdnvideo.ru/webp/shared/files/201812/114_853637.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ПОСЛЕДНИЙ МЕНТ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Премиальное HD" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Премиальное HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/7222/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приколы 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Приколы 1
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приколы 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Приколы 2
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕТРО" tvg-logo="http://epg.it999.ru/img/2402.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",РЕТРО
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РОБОЗУНА" tvg-logo="https://www.kino-teatr.ru/movie/poster/168855/161868.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",РОБОЗУНА
+https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Родное кино" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Родное кино
+http://46.8.46.14/retro/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Романтичное HD" tvg-logo="http://ttvrun.one/uploads/rbjIJR0zmnpGeZNYKb0GXe67dfH9b4.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Романтичное HD
+http://46.8.46.14/Romantichnoe_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русская комедия.Black HD" tvg-logo="https://iptvx.one/picons/russkaya-komedia.pnghttps://iptvx.one/picons/sony-turbo.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Русская комедия.Black HD
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский бестселлерРусский детектив" tvg-logo="https://iptvx.one/picons/russky-bestseller.pnghttps://iptvx.one/picons/russky-detektiv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Русский бестселлерРусский детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Иллюзион" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Русский Иллюзион
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сапфир HDДом Кино" tvg-logo="https://iptvx.one/picons/sapfir.pnghttps://iptvx.one/picons/domkino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Сапфир HDДом Кино
+https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СЛЕД" tvg-logo="http://i124.fastpic.org/big/2025/0304/08/327c77bfeb388444f21c2d35588e5808.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",СЛЕД
+https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СМЕШАРИКИ" tvg-logo="http://i124.fastpic.org/big/2025/0304/fa/9c62112b7d4c9e0397102f24c70a92fa.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",СМЕШАРИКИ
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смотрим Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОВЕТСКИЕ МУЛЬТФИЛЬМЫ" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОВЕТСКИЕ ФИЛЬМЫ" tvg-logo="http://i124.fastpic.org/big/2025/0304/ea/f5805db84096a7966a72bb5b81c5a0ea.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",СОВЕТСКИЕ ФИЛЬМЫ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛДАТЫ" tvg-logo="http://i124.fastpic.org/big/2025/0304/bb/f6ff9fec67ced8a86cacf2288a3ae6bb.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",СОЛДАТЫ
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спорт" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Спорт
+https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Танцы 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Танцы 1
+https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Танцы 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Танцы 2
+https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Танцы 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Танцы 3
+https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твое ТВ HD" tvg-logo="https://dl.dropbox.com/s/3wke9y0ure9t33l/1613851691.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телеканал Андийцы" tvg-logo="https://catcast.tv/assets/no-logo.svg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тик Ток" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Тик Ток
+https://fl1001.bozztv.com/ushba61/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТРИ БОГАТЫРЯ" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-tri-bogatirya-nadpis-na-prozrachnom-fone-1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ТРИ БОГАТЫРЯ
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="УЖАСЫ HD" tvg-logo="http://i124.fastpic.org/big/2025/0304/68/633158ed0fa15d6b7584c13d9c015368.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",УЖАСЫ HD
+https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Украина" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Украина
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ" tvg-logo="http://i124.fastpic.org/big/2025/0304/12/bc24281a42d469e4b4c7f41122757912.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
+https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Феникс+Кино
+http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ШЕРЛОК ХОЛМС" tvg-logo="http://i124.fastpic.org/big/2025/0304/85/e1a226a307b053457112bea9a834ff85.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",ШЕРЛОК ХОЛМС
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шокирующее FHD" tvg-logo="http://ttvrun.one/uploads/XJDxHT2KMnhDbys8ru7i1PyRhQ7Wwm.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Шокирующее FHD
+http://vasilijsd.kazaktelekom.com/iptv/VEXVELA6Z7PXH6/6299/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шоу Бенни Хилла" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Amedia 2 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Premium" tvg-logo="http://epg.it999.ru/img/2246.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Amedia Premium
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=rostik_tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Amedia Premium HD
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema HD" tvg-logo="http://epg.it999.ru/img/2754.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Cinema HD
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Dizi
+http://194.158.222.36:6086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAN" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",FAN
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion Channel" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Fashion Channel
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox ArtHouse HDKinoliving HD" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.pnghttps://iptvx.one/picons/kinoliving.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",FilmBox ArtHouse HDKinoliving HD
+http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox HD" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",FilmBox HD
+http://188.190.222.53/FilmBOX/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FlixSnipKino24" tvg-logo="https://iptvx.one/picons/flixsnip.pnghttps://iptvx.one/picons/kino-24.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",FlixSnipKino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMC" tvg-logo="https://telik.live/images/fmc-tv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",FMC
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gameplay" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Gameplay
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gameplay трейлеры" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Gameplay трейлеры
+https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go3 Films HD" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Go3 Films HD
+http://345f89f7.ottrast.com/iptv/FPZT65DBZMSUCU/18008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTN" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",HollywooD HD
+http://194.32.242.245/hollywoodhd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="https://iptv-play.ru/channels/all_icons/10851.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTVPLAY ИНТЕРНЫ" tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KinoMix" tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kpop Play TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Kpop Play TV
+https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAV-KINO" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Logovo Films" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NM Television" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plan B" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Plan B
+http://195.64.140.147:10082/82
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO Music Hits" tvg-logo="https://thumbs.dreamstime.com/b/retro-music-sticker-recorder-55010572.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",RETRO Music Hits
+https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Retrovision
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Кинопанорама" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Retrovision Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Classic" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Retrovision Classic
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Motor" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Retrovision Motor
+https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Movies" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Revolyo Mnemo" tvg-logo="https://i.ibb.co/mrBfHb29/image.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeleCaoTV 1" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",SeleCaoTV 1
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeleCaoTV 2" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeriesTV" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",SeriesTV
+http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Star Family
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Media" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Start Air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Start Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Start World" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Baltic HD" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Super Baltic HD
+http://84.245.224.71/SuperBaltic/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super+ HD" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Super+ HD
+http://84.245.224.71/SuperPlus/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Techno Dance Music" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Techno Dance Music
+https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Timeless Dizi Channel HDTrash TV" tvg-logo="https://iptvx.one/picons/timeless-dizi.pnghttps://iptvx.one/picons/trashtv.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Timeless Dizi Channel HDTrash TV
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Action FHD" tvg-logo="http://epg.it999.ru/img/125.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",TV 1000 Action FHD
+http://95.85.109.219:7000/play/a013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Action HD" tvg-logo="http://epg.it999.ru/img/125.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",TV 1000 Action HD
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 HD" tvg-logo="http://epg.it999.ru/img/127.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",TV 1000 HD
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",TV XXI
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino World" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viasat Kino World
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 русское кино" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju TV1000 русское кино
+http://95.85.109.219:7000/play/a08x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju TV1000 Action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju+ Comedy HD
+http://87.246.54.249:8085/Viju_Comedy/mpegts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Megahit HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju+ Megahit HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Premiere HD" tvg-logo="http://epg.it999.ru/img/2822.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju+ Premiere HD
+http://87.246.54.249:8085/Viju_Premiere/mpegts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Premiere HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju+ Premiere HD
+http://194.32.242.245/vippremiere/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Serial HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",Viju+ Serial HD
+http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Premiere FHD" tvg-logo="http://epg.it999.ru/img/2822.png" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",VIP Premiere FHD
+http://95.85.109.219:7000/play/a08y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="🎞️ КИНОЗАЛЫ 4 ТЕСТ",WWW
+https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
+
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
