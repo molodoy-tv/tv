@@ -424,9 +424,9 @@ http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА HD
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=213&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/vEGVYNJpyc5wq6-IYC45iA,1765612518/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=98&token=Ym9yeW43ODpMYW5jZXIxNg==
