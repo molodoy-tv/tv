@@ -1028,6 +1028,63 @@ https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Premiere 1 HD
+http://tv.lamro.workers.dev/?ID=5162
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Premiere 2 HD
+http://tv.lamro.workers.dev/?ID=5163
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Premiere 3 HD
+http://tv.lamro.workers.dev/?ID=5165
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU CCCP HD
+http://tv.lamro.workers.dev/?ID=5167
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Action HD
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Catastrophe HD
+http://tv.lamro.workers.dev/?ID=5169
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Fantastic HD
+http://tv.lamro.workers.dev/?ID=5171
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU FilMystic HD
+http://tv.lamro.workers.dev/?ID=5172
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU History HD
+http://tv.lamro.workers.dev/?ID=5173
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Premiere HD
+http://tv.lamro.workers.dev/?ID=5175
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Stars HD
+http://tv.lamro.workers.dev/?ID=5177
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU RUSERIAL HD
+http://tv.lamro.workers.dev/?ID=5180
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Сваты HD
+http://tv.lamro.workers.dev/?ID=5181
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Criminal HD
+http://tv.lamro.workers.dev/?ID=5182
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Cinema HD
+http://tv.lamro.workers.dev/?ID=5183
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Kinorating HD
+http://tv.lamro.workers.dev/?ID=5184
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Cosmo HD
+http://tv.lamro.workers.dev/?ID=5237
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 4",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
