@@ -1438,7 +1438,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXI
 
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/khlHD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.234.59.200:8080/KHL_Prime_HD/video.m3u8?token=5uGLTS1oibSIu0
 
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="ХОККЕЙ ТВ" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="🏅 СПОРТ", ХОККЕЙ ТВ HD
 #EXTGRP:🏅 СПОРТ
@@ -1474,6 +1474,386 @@ http://146.120.14.239:3001/play/a08c
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ СПОРТ" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏅 СПОРТ", ТВ СПОРТ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sportivnii.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
+
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч ТВ
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Арена
+http://185.46.16.239:8000/Match_Arena
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Страна
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Игра
+http://185.46.16.239:8000/Match_Igra
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Бокс ТВ
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 2
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="🏅 СПОРТ 2",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="🏅 СПОРТ 2",FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="🏅 СПОРТ 2",viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ! БОЕЦ
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Футбол
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч ТВ
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Футбол 3 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Игра HD
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Боец
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Страна HD
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",KHL
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",KHL Prime
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Viasat Sport
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",MMA-TV.COM HD
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Телеканал Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Viasat Sport HD
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYgODowNzoyMCBQTSZoYXNoX3ZhbHVlPXIyN2ExWmZEUmJlYlVGdnJBM1ZwV0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 2",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 2",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,МАТЧ! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,МАТЧ! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 2" tvg-id="belarus5-inet" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2" ,СТАРТ HD
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
+https://playout.fubo.tv/plex/3.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Fifa+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Horse and Country TV
+https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",LSN TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Primocanale Sport
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="🏅 СПОРТ 2" tvg-id="sky-sports-action", Sky Sports Action / NFL
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="🏅 СПОРТ 2", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Women's Sports Network
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",World Billiards TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Wired2Fish
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",UFC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",TNA Wrestling Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",The World Poker Tour
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Tennis+
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Strongman Champions
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",SportsGrid
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Racing America
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",RACER International
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Poker Night TV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",PFL MMA
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Motorsport tv
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Monster Jam
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",K-Baseball TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",FTF Sports
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 2",Fight Network
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
+
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 2
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="🏅 СПОРТ 3",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="🏅 СПОРТ 3",FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="🏅 СПОРТ 3",viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ! БОЕЦ
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Футбол
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 3",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 3",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч ТВ
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Футбол 3 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Игра HD
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Боец
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Матч! Страна HD
+http://arbiter.bolshoe.tv/?path=abr1/ntvsport/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",KHL
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",KHL Prime
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Viasat Sport
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",MMA-TV.COM HD
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Телеканал Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Viasat Sport HD
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI2IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1TRlMzanR6K2pmNzQ3a09MODZaRnBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,МАТЧ! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,МАТЧ! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="🏅 СПОРТ 3" tvg-id="belarus5-inet" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3" ,СТАРТ HD
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
+https://playout.fubo.tv/plex/3.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Fifa+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Horse and Country TV
+https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",LSN TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Primocanale Sport
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="🏅 СПОРТ 3" tvg-id="sky-sports-action", Sky Sports Action / NFL
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="🏅 СПОРТ 3", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Women's Sports Network
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",World Billiards TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Wired2Fish
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",UFC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",TNA Wrestling Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",The World Poker Tour
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Tennis+
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Strongman Champions
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",SportsGrid
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Racing America
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",RACER International
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Poker Night TV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",PFL MMA
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Motorsport tv
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Monster Jam
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",K-Baseball TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",FTF Sports
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
+#EXTINF:-1 group-title="🏅 СПОРТ 3",Fight Network
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС KIDS" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="🧸 ДЕТСКИЕ", СТС KIDS
 #EXTGRP:🧸 ДЕТСКИЕ
@@ -2852,10 +3232,6 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
 
-#EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
-
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="KINOJAM 2 HD" tvg-logo="https://iptvx.one/picons/kinojam2.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 2 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
@@ -2901,7 +3277,6 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/03/plst.
 #EXTINF:-1 tvg-name="Зал 18" tvg-id="zal-18-tricolor" tvg-logo="https://sun1-17.userapi.com/q_MEzi3fbrwSDeI6O4WGwHtp-LB94t3TrMNMYA/yXnf6Z4ND0s.jpg" group-title="🧸 ДЕТСКИЕ", ПРОСТОКВАШИНО
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
-
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
