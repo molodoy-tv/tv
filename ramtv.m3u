@@ -1047,10 +1047,10 @@ https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c438
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://46.53.208.4/live/2324.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.234.59.200:9090/channel/n14f876d2/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
+http://46.53.208.4/live/2325.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://karnei4.github.io/convert/ohotnik_i_ribolov_hd.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1083,7 +1083,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU2SY59e-MGRULDQyGDMIUMiNFXtbaDROtY_o4DKUp0dA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1392,7 +1392,7 @@ http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ 2",Первый Медицинский канал
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="МАТЧ ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! (архив)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! (архив)
 #EXTGRP:🏅 СПОРТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1426,7 +1426,7 @@ http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU
 
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
 #EXTGRP:🏅 СПОРТ
-https://bl.video.matchtv.ru/media/playlist/ch_30124fd27539d62f496f5384883a156a/17_72477605/1080/11a62beb2dcf46eacdb143ee2f514c46/1774251600.m3u8
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/mobile2/ntvsport&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 
 #EXTINF:-1 tvg-id="match-boets" tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ HD
 #EXTGRP:🏅 СПОРТ
@@ -1456,6 +1456,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Futbolnyy_HD
 #EXTINF:-1 tvg-id="start" tvg-name="СТАРТ HD" tvg-logo="https://iptvx.one/picons/start.png" group-title="🏅 СПОРТ", СТАРТ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" group-title="🏅 СПОРТ", СТАРТ ТРИУМФ HD
+#EXTGRP:🏅 СПОРТ
+https://msk2-cdp2.playfamily.ru/tv/cid/364162160-1774450544-L-HoQTv9DLkAjeO_o37iQg/msk-ix/hls/Start_Triumph_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 HD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
@@ -1464,6 +1467,9 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=169&token=Ym9yeW43ODpMYW5jZXIxNg==
 
+#EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="🏅 СПОРТ", СТАРТ БАСКЕТ HD
+#EXTGRP:🏅 СПОРТ
+https://msk2-cdp11.playfamily.ru/tv/cid/364162160-1774434681-NjOvGPkNHP6ZG2cc_bHDZw/msk-ix/hls/Start_Basket_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="🏅 СПОРТ", ВОЛЕЙБОЛ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1474,7 +1480,6 @@ http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU
 #EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=M1_Global.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
-
 
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ СПОРТ" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏅 СПОРТ", ТВ СПОРТ
 #EXTGRP:🏅 СПОРТ
@@ -2646,6 +2651,9 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-name="ТЕЛЕДОМ HD" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522952433_teledom-1.jpg" group-title="👀 РАЗНОЕ", ТЕЛЕДОМ HD
 #EXTGRP:👀 РАЗНОЕ
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="👀 РАЗНОЕ", ЧЕСТНЫЙ ДЕТЕКТИВ
+#EXTGRP:👀 РАЗНОЕ
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда" tvg-logo="https://epg.iptvx.one/picons/zal-suda.png" group-title="👀 РАЗНОЕ", ЗАЛ СУДА
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zal_suda.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -3034,12 +3042,9 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1  tvg-name="Now 90's" tvg-logo="https://e1.pngegg.com/pngimages/708/152/png-clipart-mon3y-set-now-90-s-decor.png" group-title="🎵 МУЗЫКА", Now 90's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="🏅 СПОРТ", TENNIS CHANNEL
-#EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/7d307ef4/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
 #EXTINF:-1 tvg-id="supertennis" tvg-name="Super-Tennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="🏅 СПОРТ", SUPER TENNIS
 #EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/n6263ad12/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWG7M-F3MywtG5P8Yf4hG_cYn5SQOuMg2pZvRuXZsutRA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -3217,6 +3222,14 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 
+#EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+
+#EXTINF:-1 tvg-id="kinojam2" tvg-name="KINOJAM 2 HD" tvg-logo="https://iptvx.one/picons/kinojam2.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 2 HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+
 #EXTINF:-1 tvg-id="zal-11-tricolor" tvg-name="Зал 11 (Смешарики)" tvg-logo="https://profranch.com/wp-content/uploads/2013/11/frrDTq0y.jpg" group-title="🧸 ДЕТСКИЕ", СМЕШАРИКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-20.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -3307,6 +3320,21 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u
 #EXTINF:-1 tvg-name="Наше Наследие" tvg-id="nashe-nasledie" tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НАСЛЕДИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Nasledie_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+#EXTINF:-1 tvg-name="Смотрим 100% Мужское" tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% МУЖСКОЕ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Классика" tvg-id="smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% КЛАССИКА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Любовь" tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% ЛЮБОВЬ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 НОВЕЛЛА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.4/live/545.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.4/live/3111.m3u8
 
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-03-13/fd/29/fd294d50a7bae727e8fe8c72271e186b.jpg", Стукач (2025)
 https://river-1.rutube.ru/hls-vod/L2HCEAiE9heeRdS-6ci-3A/1774719255/2223/0x5000c500e45a5bb8/3fae40bb59e3430e832966db05906f4e.mp4.m3u8?i=1920x1080_1971
