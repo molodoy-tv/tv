@@ -1404,7 +1404,7 @@ http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=1nvenc/NTVplusfut1HD/7
 
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDI2IDc6NTU6NDcgUE0maGFzaF92YWx1ZT1uOENwWDBBVmVRVmhjdFBQQXF1aGhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
@@ -1437,10 +1437,6 @@ http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXIxNg==
 
-#EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
-#EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWHbxvn6yZV3WUWE7NEPs5XSap1Hr3toMx9Y3AfIo6DzQ&token=Ym9yeW43ODpMYW5jZXIxNg==
-
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="ХОККЕЙ ТВ" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="🏅 СПОРТ", ХОККЕЙ ТВ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1451,9 +1447,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Futbolnyy_HD
 #EXTINF:-1 tvg-id="start" tvg-name="СТАРТ HD" tvg-logo="https://iptvx.one/picons/start.png" group-title="🏅 СПОРТ", СТАРТ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
-#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" group-title="🏅 СПОРТ", СТАРТ ТРИУМФ HD
-#EXTGRP:🏅 СПОРТ
-https://msk2-cdp2.playfamily.ru/tv/cid/364162160-1774450544-L-HoQTv9DLkAjeO_o37iQg/msk-ix/hls/Start_Triumph_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 HD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
@@ -1462,9 +1455,6 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=169&token=Ym9yeW43ODpMYW5jZXIxNg==
 
-#EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="🏅 СПОРТ", СТАРТ БАСКЕТ HD
-#EXTGRP:🏅 СПОРТ
-https://msk2-cdp11.playfamily.ru/tv/cid/364162160-1774434681-NjOvGPkNHP6ZG2cc_bHDZw/msk-ix/hls/Start_Basket_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="🏅 СПОРТ", ВОЛЕЙБОЛ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
