@@ -1024,7 +1024,7 @@ https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎞️ КИНОЗАЛЫ 3" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
+EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD
@@ -3059,7 +3059,7 @@ http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="https://epg.iptvx.one/picons/hollywood.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=175&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=140&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -3225,7 +3225,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
 
-
 #EXTINF:-1 tvg-id="zal-11-tricolor" tvg-name="Зал 11 (Смешарики)" tvg-logo="https://profranch.com/wp-content/uploads/2013/11/frrDTq0y.jpg" group-title="🧸 ДЕТСКИЕ", СМЕШАРИКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-20.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
@@ -3238,6 +3237,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-name="ЧИП И ДЕЙЛ" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="🧸 ДЕТСКИЕ", ЧИП И ДЕЙЛ
 #EXTGRP:🧸 ДЕТСКИЕ
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="womens-magazine" tvg-name="Women's Magazine" tvg-logo="https://epg.iptvx.one/picons/womens-magazine.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", WOMEN'S MAGAZINE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
