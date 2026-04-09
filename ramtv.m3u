@@ -3205,7 +3205,9 @@ http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=140&token=Ym9yeW43ODpMYW5jZXIxNg==
-
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://66.90.92.162:80/8872/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1  tvg-name="Музыка 1 International" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=-hEgDHeA" group-title="🎵 МУЗЫКА", Музыка 1 International
 #EXTGRP:🎵 МУЗЫКА
 http://kino-1.catcast.tv/content/37745/index.m3u8
@@ -3398,6 +3400,9 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTGRP:🧸 ДЕТСКИЕ
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="🏅 СПОРТ", FS1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
@@ -3419,6 +3424,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazi
 #EXTINF:-1 tvg-id="detective-jam-hd" tvg-name="DetectiveJam" tvg-logo="https://iptvx.one/picons/detectivejam.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", DETECTIVE JAM HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=DetectiveJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
+
 
 #EXTINF:-1 tvg-name="КИНОМУЛЬТ" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="🧸 ДЕТСКИЕ", КИНОМУЛЬТ
 #EXTGRP:🧸 ДЕТСКИЕ
@@ -3468,7 +3474,12 @@ http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1  tvg-name="Музыка 2 International" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-2-international.jpg?itok=QBzJqaoB" group-title="🎵 МУЗЫКА", Музыка 2 International
 #EXTGRP:🎵 МУЗЫКА
 http://kino-1.catcast.tv/content/37742/index.m3u8
-
+#EXTINF:-1 tvg-name="BCU HISTORY HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_13.png" group-title="🎞️ КИНОЗАЛЫ", BCU HISTORY HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+#EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_4.png" group-title="🎞️ КИНОЗАЛЫ", BCU KINORATING HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
 #EXTINF:-1 tvg-name="Зал 28" tvg-id="zal-28-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-28-tricolor.png" group-title="👀 РАЗНОЕ", КЛУБ ЮМОРА
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal28_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
